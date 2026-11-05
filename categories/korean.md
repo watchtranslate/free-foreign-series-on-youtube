@@ -1,0 +1,31 @@
+# Korean dramas
+
+K-dramas KBS posts in full on KBS WORLD TV. 10 titles on official YouTube channels.
+
+[← All series](../README.md)
+
+| Series | Year | Episodes | Genre | Story | Watch free (official) | English subs | Subtitles in your language |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Love to the End**<br><sub>끝까지 사랑</sub> | 2018 | 104 | Family, melodrama | Two women's intertwined fates test family bonds, love and ambition. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RFAahuj8iTbXh97vcg1Vn4b) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RFAahuj8iTbXh97vcg1Vn4b) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-love-to-the-end) |
+| **The Promise**<br><sub>천상의 약속</sub> | 2016 | 102 | Melodrama, revenge | A woman takes her twin sister's identity to seek justice against those who wronged her. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RG8vDcM8Oe8Fg1MTKZlT8gx) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RG8vDcM8Oe8Fg1MTKZlT8gx) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-the-promise) |
+| **The Unusual Family**<br><sub>별난 가족</sub> | 2016 | 149 | Family, daily drama | Farm-village families grapple with dreams, love and quirky relatives. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RErWfM4PkGjcrqM4LQF1_7r) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RErWfM4PkGjcrqM4LQF1_7r) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-the-unusual-family) |
+| **House of Bluebird**<br><sub>파랑새의 집</sub> | 2015 | 50 | Family, romance, comedy | Two families' lives intertwine through marriages, rivalries and everyday troubles. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RGhAQ_LKbJIrX9CfpcrV946) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RGhAQ_LKbJIrX9CfpcrV946) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-house-of-bluebird) |
+| **Who Are You: School 2015**<br><sub>후아유 - 학교 2015</sub> | 2015 | 16 | Teen, mystery | A transfer student with a hidden identity is drawn into a high school mystery. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RGBK9hN8_4EhH0gS0HmEt5C) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RGBK9hN8_4EhH0gS0HmEt5C) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-who-are-you-school-2015) |
+| **Hi! School - Love On**<br><sub>하이스쿨 - 러브온</sub> | 2014 | 20 | Teen, supernatural, romance | A girl who sees ghosts and two boys face school life and a mysterious past. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5REPnQwGOZ4xeBlT2FFe1mp6) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5REPnQwGOZ4xeBlT2FFe1mp6) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-hi-school-love-on) |
+| **Love & Secret**<br><sub>달콤한 비밀</sub> | 2014 | 102 | Romance, melodrama | A woman's hidden past complicates her love and workplace life. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RHJpCFxwCfulo2jzSfrwK0U) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RHJpCFxwCfulo2jzSfrwK0U) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-love-secret) |
+| **A Tale of Two Sisters**<br><sub>지성이면 감천</sub> | 2013 | 135 | Family, romance | An adopted woman reunites with her birth mother and is torn between two families. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RGqeSFvcUER7bzQKZD4n3yy) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RGqeSFvcUER7bzQKZD4n3yy) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-a-tale-of-two-sisters) |
+| **You Are the Best, Lee Soon-shin**<br><sub>최고다 이순신</sub> | 2013 | 50 | Family drama | A young woman holds her family together after her father's death and finds her birth mother. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RH9WZlNQfwnilE-uSKlEshz) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RH9WZlNQfwnilE-uSKlEshz) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-you-are-the-best-lee-soon-shin) |
+| **Master of Study**<br><sub>공부의 신</sub> | 2010 | 16 | Teen, drama | A struggling lawyer coaches bottom-ranked students toward a top university. | [KBS WORLD TV](https://www.youtube.com/playlist?list=PLMf7VY8La5RG0HyxfxDEuFge0GrEDP4Ew) | [✓](https://www.youtube.com/playlist?list=PLMf7VY8La5RG0HyxfxDEuFge0GrEDP4Ew) | [Translate it](https://watchtranslate.com/foreign-videos?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-master-of-study) |
+
+## Watch any of them in your language
+
+- **Translate videos on YouTube, X, Bilibili and more** — Translate existing subtitles directly, or generate bilingual subtitles when there are none.
+- **Better translation quality than traditional machine or real-time translation** — AI language models use context and connect the surrounding dialogue to understand meaning.
+- **Export subtitles as SRT / VTT files** — Download generated subtitles as original, translated, or bilingual text and load them in common players.
+- **Already translated by someone? Watch it free** — Sign up free to reuse generated subtitles for the same video, subtitle source and languages, even after your credits run out.
+
+**20 free points on sign-up** · [Start free →](https://watchtranslate.com/?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=korean-start)
+
+---
+
+Maintained by [WatchTranslate](https://watchtranslate.com/?utm_source=github&utm_medium=readme&utm_campaign=gh_series&utm_content=about-en). Not affiliated with the networks, studios or channels listed; titles and channel links belong to their owners.
